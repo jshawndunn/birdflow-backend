@@ -1,6 +1,6 @@
 #  Birdflow API
 
-Welcome to the [Birdflow API](https://birdflow-backend.herokuapp.com/). Used by the Birflow application to search and add birds to a user journal.
+Welcome to the [Birdflow API](https://birdflow-backend.herokuapp.com/). Used by the Birdflow application to search and add birds to a user journal.
 ## Models
 
 ### User Model
